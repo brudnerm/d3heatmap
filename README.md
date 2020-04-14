@@ -8,7 +8,8 @@
 
 ![Tooltip Screenshot](https://raw.githubusercontent.com/brudnerm/d3heatmap/master/d3heatmap_v1.0_tooltip.PNG)
 
-> Example with 2019 MLB Team Stats data
+> Example with 2019 MLB Team Stats data (source: https://www.baseball-reference.com/leagues/MLB/2019.shtml)
+
 ![Tooltip Screenshot](https://raw.githubusercontent.com/brudnerm/d3heatmap/master/examples/2019-MLB.jpg)
 
-data source: https://www.baseball-reference.com/leagues/MLB/2019.shtml
+

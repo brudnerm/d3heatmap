@@ -2,7 +2,7 @@
 
 > D3.js v5
 
-![Screenshot](https://raw.githubusercontent.com/brudnerm/d3heatmap/master/d3heatmap_v1.0_screenshot.PNG)
+![Screenshot](https://raw.githubusercontent.com/brudnerm/d3heatmap/master/d3heatmap_v1.1_screenshot.PNG)
 
 > Tool tip on mouse-over
 
